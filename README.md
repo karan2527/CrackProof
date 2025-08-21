@@ -1,6 +1,6 @@
 ## CrackProof
-
-EntropyX-powered password strength checker with entropy, pattern analysis, and Have I Been Pwned breach lookup. Ships with a simple Tkinter GUI.
+  
+CrackProof is a sophisticated password security analysis tool that evaluates password strength using advanced algorithms including entropy calculations, pattern detection, and real-time breach database checking. Built with cybersecurity professionals and security-conscious users in mind.
 
 ### Features
 - Entropy estimation and character class analysis
@@ -13,12 +13,12 @@ EntropyX-powered password strength checker with entropy, pattern analysis, and H
 
 Install dependencies:
 ```bash
-pip install -r CrackProof/requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Run
 ```bash
-python CrackProof/crackproof.py
+python crackproof.py
 ```
 
 ### Tests
